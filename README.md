@@ -1,2 +1,2 @@
-# JS-Hindi-Youtube-Hitesh-Sir & Harshit Vashisth
-learn JS from Hindi YouTube channel  providing by Hitesh sir  & Harshit Vashisth.
+# JS-Youtube-Akshay Saini & Harshit Vashisth
+learn JS from YouTube channel  providing by Akshay Saini  & Harshit Vashisth.
